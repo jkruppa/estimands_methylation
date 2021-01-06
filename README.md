@@ -1,1 +1,2 @@
-# Estimands in epigenome-wide association studies
+# Additional information
+## Estimands in epigenome-wide association studies
