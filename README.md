@@ -1,1 +1,1 @@
-# estimands_methylation
+# Estimands in epigenome-wide association studies
